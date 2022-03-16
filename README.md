@@ -1,4 +1,4 @@
-# Securing mobile applications using trusted execution environment
+# Samsung device - Trusted execution environment
 ### Goal
 Skill up in OS security & pen-testing, and contribute to the team's research around the TEE
 
